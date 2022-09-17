@@ -5,7 +5,7 @@ name: Juan Pablo Deplà
 tagline: Esculturas con desechos metálicos reciclados.
 
 # YOUR/BRAND IMAGE URL
-Image_URL: https://www.gravatar.com/avatar/0d73468bd0b0258eb61d9358352ecb7b?s=500
+Image_URL: https://www.gravatar.com/avatar/14c00bf87462c462f3a1dfc131b61c36?s=500
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
 Cover_Image: https://source.unsplash.com/random
@@ -18,7 +18,7 @@ links:
     # INSTAGRAM
   - Name: Instagram
     URL: https://www.instagram.com
-    Username: harsh98trivedi
+    Username: juanpablodepla
     Color: '#DD2A7B'
     Icon-Class: fab fa-instagram
 
